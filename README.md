@@ -1,6 +1,6 @@
 # Panoptic
 
-AI-powered SaaS audit platform that identifies inactive users, unused licences, orphaned accounts, and cost inefficiencies across your organisation's tools.
+AI-powered SaaS audit platform that identifies inactive users, unused licences, orphaned accounts, and cost inefficiencies across organisation's tools.
 
 Built with React, Python/Flask, and the Claude API.
 
