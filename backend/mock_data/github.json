@@ -1,0 +1,13 @@
+{
+  "members": [
+    { "username": "alicemurphy", "last_commit": "2026-05-17", "repos_contributed": 5, "status": "active" },
+    { "username": "briandoyle", "last_commit": "2025-10-22", "repos_contributed": 2, "status": "inactive" },
+    { "username": "carolflyn", "last_commit": "2025-07-30", "repos_contributed": 1, "status": "inactive" },
+    { "username": "ghost-user", "last_commit": null, "repos_contributed": 0, "status": "never_active" }
+  ],
+  "repos": [
+    { "name": "main-app", "last_commit": "2026-05-17", "open_prs": 3, "stale_branches": 2 },
+    { "name": "old-api", "last_commit": "2025-03-10", "open_prs": 0, "stale_branches": 8 },
+    { "name": "unused-service", "last_commit": "2024-08-01", "open_prs": 0, "stale_branches": 12 }
+  ]
+}

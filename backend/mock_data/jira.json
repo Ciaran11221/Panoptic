@@ -1,0 +1,12 @@
+{
+  "projects": [
+    { "key": "WEB", "name": "Website Redesign", "lead": "Alice Murphy", "last_updated": "2026-05-10", "open_issues": 12, "status": "active" },
+    { "key": "MOB", "name": "Mobile App", "lead": "Brian Doyle", "last_updated": "2025-09-01", "open_issues": 34, "status": "stale" },
+    { "key": "INT", "name": "Integrations", "lead": "Carol Flynn", "last_updated": "2025-06-15", "open_issues": 8, "status": "stale" },
+    { "key": "LEG", "name": "Legacy Migration", "lead": "David Kane", "last_updated": "2024-12-20", "open_issues": 47, "status": "abandoned" }
+  ],
+  "inactive_users": [
+    { "name": "Brian Doyle", "email": "brian@company.com", "last_active": "2025-09-01" },
+    { "name": "David Kane", "email": "david@company.com", "last_active": "2024-12-20" }
+  ]
+}

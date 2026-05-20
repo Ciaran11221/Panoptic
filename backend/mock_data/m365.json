@@ -1,0 +1,10 @@
+{
+  "licences": [
+    { "user": "Alice Murphy", "email": "alice@company.com", "plan": "Microsoft 365 E3", "assigned": "2023-01-10", "last_active": "2026-05-18", "active": true },
+    { "user": "Brian Doyle", "email": "brian@company.com", "plan": "Microsoft 365 E3", "assigned": "2022-06-15", "last_active": "2025-10-30", "active": false },
+    { "user": "Carol Flynn", "email": "carol@company.com", "plan": "Microsoft 365 E5", "assigned": "2021-03-22", "last_active": "2025-08-01", "active": false },
+    { "user": "David Kane", "email": "david@company.com", "plan": "Microsoft 365 E3", "assigned": "2020-11-05", "last_active": "2024-11-20", "active": false },
+    { "user": "Emma Byrne", "email": "emma@company.com", "plan": "Microsoft 365 E1", "assigned": "2021-08-30", "last_active": "2024-08-10", "active": false },
+    { "user": "Ghost Account", "email": "ghost@company.com", "plan": "Microsoft 365 E3", "assigned": "2022-01-01", "last_active": null, "active": false }
+  ]
+}

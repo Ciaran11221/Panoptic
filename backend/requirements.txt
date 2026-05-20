@@ -1,0 +1,7 @@
+@'
+# Panoptic backend dependencies
+flask           # Web framework — handles HTTP routing and responses
+flask-cors      # Allows the React frontend to call the Flask API cross-origin
+anthropic       # Official Anthropic SDK — used to call the Claude API
+python-dotenv   # Loads ANTHROPIC_API_KEY from the .env file at startup
+'@ | Set-Content requirements.txt

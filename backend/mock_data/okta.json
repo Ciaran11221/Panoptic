@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": "00u1", "name": "Alice Murphy", "email": "alice@company.com", "status": "ACTIVE", "last_login": "2026-05-18", "created": "2023-01-10" },
+    { "id": "00u2", "name": "Brian Doyle", "email": "brian@company.com", "status": "ACTIVE", "last_login": "2025-11-01", "created": "2022-06-15" },
+    { "id": "00u3", "name": "Carol Flynn", "email": "carol@company.com", "status": "ACTIVE", "last_login": "2025-08-20", "created": "2021-03-22" },
+    { "id": "00u4", "name": "David Kane", "email": "david@company.com", "status": "DEPROVISIONED", "last_login": "2024-12-01", "created": "2020-11-05" },
+    { "id": "00u5", "name": "Emma Byrne", "email": "emma@company.com", "status": "ACTIVE", "last_login": "2024-09-15", "created": "2021-08-30" },
+    { "id": "00u6", "name": "Frank Nolan", "email": "frank@company.com", "status": "SUSPENDED", "last_login": "2025-01-10", "created": "2022-02-14" }
+  ]
+}
